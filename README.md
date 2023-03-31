@@ -6,7 +6,7 @@ Back-End Developer
 
 * 🌍  I'm based in Turkey, Isparta
 * ✉️  You can contact me at [masendgj7@gmail.com](mailto:masendgj7@gmail.com)
-* 🧠  I'm learning .NET and Go
+* 🧠  I'm learning .NET
 
 ### Skills
 
