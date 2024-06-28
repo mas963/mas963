@@ -1,5 +1,7 @@
-Back-end Developer
+Software Developer 
+
 -------------
+* Dotnet C#, Vuejs
 * [masendgj7@gmail.com](mailto:masendgj7@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/ya%C5%9Far-can/)
 
