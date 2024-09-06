@@ -1,7 +1,11 @@
 Software Developer 
 
 -------------
-* Dotnet C#, Vue JS
+C#, TS, JS, Dotnet, Asp.net, Nodejs, Express, Nestjs, Vuejs, Entityframework, Dapper,
+Sql (MS Sql, Postgresql, MySql), Nosql (Mongo, Cosmos), Blazor, Bootstrap,
+SignalR, Socket.io, CQRS, DDD, Clean Architecture, SOLID,
+Container(Docker), Git, Redis, RabbitMQ
+
 * [masendgj7@gmail.com](mailto:masendgj7@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/ya%C5%9Far-can/)
 
